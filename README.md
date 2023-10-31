@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🚀 Introdução ao Desafio
 
@@ -264,3 +265,6 @@ Você deve enviar o link do repositório com as questões respondidas para o Moo
 
 
 
+=======
+# primeiro-repositorio
+>>>>>>> f6813fe (first commit)
